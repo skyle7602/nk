@@ -22,7 +22,7 @@ local themes = {
 	Background = Color3.fromRGB(29, 36, 44), 
 	Glow = Color3.fromRGB(0, 0, 0), 
 	Accent = Color3.fromRGB(37, 46, 53), 
-	LightContrast = Color3.fromRGB(20, 20, 20), 
+	LightContrast = Color3.fromRGB(37, 46, 53), 
 	DarkContrast = Color3.fromRGB(25, 30, 34),  
 	TextColor = Color3.fromRGB(255, 255, 255)
 }
